@@ -4,8 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiba-moh&langs_count=8)](https://github.com/Hiba-moh/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiba-moh&repo=github-readme-stats)](https://github.com/Hiba-moh/github-readme-stats)
-
+api/pin?username=Hiba-moh&repo=github-readme-stats
 
 
 <!--
