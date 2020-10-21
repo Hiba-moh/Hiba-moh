@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiba-moh&langs_count=8)](https://github.com/Hiba-moh/github-readme-stats)
 
-[![Hiba's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hiba)](https://github.com/Hiba-moh/github-readme-stats)
+[![Hiba's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hiba)](https://github.com/Hiba-moh/github-readme-stats)
 
 
 <!--
