@@ -2,7 +2,7 @@
 
 ![Hiba's github stats](https://github-readme-stats.vercel.app/api?username=Hiba-moh&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiba-moh&langs_count=10)](https://github.com/Hiba-moh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiba-moh&langs_count=8)](https://github.com/Hiba-moh/github-readme-stats)
 
 
 
